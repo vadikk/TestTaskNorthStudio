@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TestTaskNorthStudio</string>
+    <string name="add_element">Добавить элемент</string>
+    <string name="time">Введите время</string>
+    <string name="pick_time">Время</string>
+    <string name="date">Введите дату</string>
+    <string name="pick_date">Дата</string>
+    <string name="text">Добавьте текст</string>
+    <string name="add">Добавить</string>
+
+    <string name="time_text">Время: %1$d ч, %2$d мин, %3$d сек</string>
+    <string name="date_text">Дата: %1$d месяц, %2$d день, %3$d год</string>
+    <string name="success">Успешное добавление</string>
+    <string name="notification">Уведомление</string>
+
+</resources>
